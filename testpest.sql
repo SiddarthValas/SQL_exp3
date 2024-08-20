@@ -146,7 +146,7 @@ INSERT ALL
         ('987654321', 20, 15.0)
     INTO WORKS_ON (Essn, Pno, Hours) VALUES
         ('888665555', 20, 15.0)
-SELECT
+SELECT * FROM dual;
 
 
 
